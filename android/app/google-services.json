@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465643215953",
+    "project_id": "emlakflutter-662b0",
+    "storage_bucket": "emlakflutter-662b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465643215953:android:f44680f85a451e3e2dac70",
+        "android_client_info": {
+          "package_name": "com.example.emlakproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSs6UntI7nDQLhI3ppL584nsDN75mXFh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
